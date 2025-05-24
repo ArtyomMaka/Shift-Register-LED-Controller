@@ -47,15 +47,15 @@
 
 ## 📂 Структура
 
-project/
-├── Arduino/
-│ └── main.ino
-├── STM/
-│ └── Loading...
-├──.gitignore
-├── LICENSE
-├── README.md
-└── wiring_diagram.png
+- project/
+- ├── Arduino/
+- │ └── main.ino
+- ├── STM/
+- │ └── Loading...
+- ├──.gitignore
+- ├── LICENSE
+- ├── README.md
+- └── wiring_diagram.png
 
 ---
 
