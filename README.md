@@ -51,7 +51,7 @@
 - ├── Arduino/
 - │ └── main.ino
 - ├── STM/
-- │ └── Loading...
+- │ └── Shift Register LEDs
 - ├──.gitignore
 - ├── LICENSE
 - ├── README.md
